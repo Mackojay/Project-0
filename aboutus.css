@@ -1,0 +1,57 @@
+ body {
+                background-image: url(./../images/bckimg.jpg);
+                background-size: cover;
+                background-attachment: fixed;
+            }
+         .section_title {} .section_subtitle {
+             margin-bottom: 7px;
+             padding-left: 7px;
+             font-size: 16px;
+             line-height: 1;
+             text-transform: uppercase;
+             color: #fff;
+             border-left: 3px solid #fff;
+             font-size: 700;
+         }  
+         
+         .section_main_title {
+             margin-top: 0;
+             margin-bottom: 37px;
+             font-size: 30px;
+             line-height: 1.27;
+             font-weight: 300;
+             color: #fff;
+         }
+         
+         .section_main_title strong {
+             font-weight: 600;
+         }
+         
+         .about-item p {
+             color: #fff;
+         }
+         
+         .btn-color-background {
+             -moz-user-select: none;
+             background-image: -webkit-linear-gradient(145deg, #faa61f 0%, #faa61f 0%, #ed1847 100%);
+             border: 1px solid #bfa67a;
+             border-radius: 2px;
+             color: #ffffff;
+             cursor: pointer;
+             display: inline-block;
+             font-size: 14px;
+             line-height: 1.42857;
+             margin-bottom: 0;
+             padding: 12px 48px;
+             text-align: center;
+             text-transform: uppercase;
+             transition: all 0.5s ease 0s;
+             vertical-align: middle;
+             
+         }
+         
+         .btn-color-background:hover{
+             text-decoration: none;
+             color: orangered;
+             background: transparent;
+         }

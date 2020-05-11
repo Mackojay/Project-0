@@ -1,0 +1,16 @@
+ body {
+                background-image: url(./../images/bckimg.jpg);
+                background-size: cover;
+                background-attachment: fixed;
+            }
+         
+         hr{
+             background: white;
+         }
+         .contact-form {
+             background:rgba(0,0,0, .6);
+             color: white;
+             margin-top: 100px;
+             padding: 20px;
+             box-shadow: 0px 0px 10px 3px grey;
+         }
